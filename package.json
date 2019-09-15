@@ -1,0 +1,28 @@
+{
+  "name": "elfontheshelf",
+  "version": "1.0.0",
+  "description": "Elf on the Shelf game bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moriczgergo/elfontheshelf.git"
+  },
+  "keywords": [
+    "discord",
+    "game"
+  ],
+  "author": "skiilaa",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/moriczgergo/elfontheshelf/issues"
+  },
+  "homepage": "https://github.com/moriczgergo/elfontheshelf#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.1.0",
+    "mongoose": "^5.7.1"
+  }
+}
